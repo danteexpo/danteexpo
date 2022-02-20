@@ -1,18 +1,18 @@
-## 👋 Hi! I’m Dante Expósito.
+# 👋 Hi! I’m Dante Expósito.
 
-## 💻 I’m a Frontend Web Developer.
+## 💻 I’m a Front End Web Developer.
 
 - 👀 Here you can check out my Portfolio:
 - 👀 And here my Resume:
-- 📌 I was born in Argentina in 2002 & I've been coding since 2018 but really got into it in 2021.
-- 🥅 I’m interested in creating great and functional web applications.
-- ⏫ I'm always learning everything.
+- 🌎 I was born in Argentina in 2002 & I've been coding since 2018 but really got into it in 2021.
+- ⚡ I’m interested in creating great and functional web applications.
+- 📚 I'm currently learning everything.
 
 ## LinkedIn:
 
 ## Website:
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
