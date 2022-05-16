@@ -2,15 +2,15 @@
 
 ## 💻 I’m a Front End Web Developer.
 
-- 👀 Here you can check out my Portfolio:
-- 👀 And here my Resume:
+- 👀 Here you can check out my <a href="http://www.danteexpo.com/" target="_blank" rel="noreferrer">Portfolio</a>.
+- 👀 And here my <a href="https://drive.google.com/file/d/17RLb0ywyYxNa60JIKg_gYTK7_-JU6uEs/view" target="_blank" rel="noreferrer">Resume</a>.
 - 🌎 I was born in Argentina in 2002 & I've been coding since 2018 but really got into it in 2021.
 - ⚡ I’m interested in creating great and functional web applications.
 - 📚 I'm currently learning everything.
 
 ## LinkedIn:
 
-## Website:
+<a href="https://www.linkedin.com/in/danteexposito/" target="_blank" rel="noreferrer"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
 
 ## Languages and Tools:
 
