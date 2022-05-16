@@ -10,7 +10,7 @@
 
 ## LinkedIn:
 
-<a href="https://www.linkedin.com/in/danteexposito/" target="_blank" rel="noreferrer"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
+- 👀 Here you can check out my <a href="https://www.linkedin.com/in/danteexposito/" target="_blank" rel="noreferrer">LinkedIn</a>.
 
 ## Languages and Tools:
 
