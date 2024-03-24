@@ -1,6 +1,6 @@
 # 👋 Hi! I’m Dante Expósito.
 
-## 💻 I’m a Frontend Developer.
+## 💻 I’m a Fullstack engineer.
 
 - 👀 Here is my <a href="https://dante-exposito.vercel.app/" target="_blank" rel="noreferrer">Portfolio</a>.
 - 👀 Here is my <a href="https://docs.google.com/document/d/13WfY4hwWSzz77P_BCD2dDJVlw44ESNJqeyRvQTkcKvc/edit?usp=sharing" target="_blank" rel="noreferrer">Resume</a>.
