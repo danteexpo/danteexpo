@@ -1,6 +1,6 @@
 # 👋 Hello! I’m Dante Expósito.
 
-## 💻 I’m a Frontend Engineer.
+## 💻 I’m a Full Stack Engineer.
 
 - 🇦🇷 I was born in Argentina in 2002.
 - 📚 I'm always learning. Having fun in the process!
